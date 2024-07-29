@@ -1,0 +1,23 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "packagejson",
+  "main": "logic.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LifeIsFiction5/practiceDemo.git"
+  },
+  "keywords": [
+    "practice",
+    "demo"
+  ],
+  "author": "JakeBarrett",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LifeIsFiction5/practiceDemo/issues"
+  },
+  "homepage": "https://github.com/LifeIsFiction5/practiceDemo#readme"
+}
